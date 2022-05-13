@@ -1,15 +1,7 @@
 .grid {
   display: grid;
   grid-template-columns: repeat(32, 1fr);
-  // grid-template-rows: repeat(18, 1fr);
-  // width: #{50 * 8}px;
-  // height: #{50 * 8}px;
   margin: auto;
-  // margin-top: 20vh;
   height: 100vh;
   width: 100vw;
-}
-
-.grid-item {
-
 }
